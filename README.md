@@ -8,6 +8,7 @@ Projeto de organograma de uma empresa de Tecnologia desenvolvido com React
 -  Formulário para criara novo time.
 -  Botão para deletar colaborador
 -  Botão para favoritar colaborador
+-  Opção de mudar a cor dos times.
 
 # Organogram
 
@@ -19,6 +20,7 @@ Technology company organizational chart developed with React
 -  Form to create a new team.
 -  Button to delete employee.
 -  Button to favorite employee.
+-  Team change color option..
 
 ## Screenshots
 
